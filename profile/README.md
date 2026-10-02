@@ -9,8 +9,6 @@
 Soluções tecnológicas desenvolvidas para apoiar a operação,
 otimizar processos e acelerar a transformação digital do Nova Era.
 
-🌐 [www.supernovaera.com.br](https://www.supernovaera.com.br)
-
 </div>
 
 ---
