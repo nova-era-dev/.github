@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="../assets/logo-nova-era.png" alt="Logo Nova Era" width="320">
+
 # Nova Era | Tecnologia & Desenvolvimento
 
 ### Automação • Sistemas • Integrações • Dados
