@@ -90,6 +90,7 @@ rpa-notas-imobilizado-e-cte-contabil
 site-portal-de-switch
 intg-assinatura-de-contrato
 exe-autohelpne
+```
 
 ---
 
@@ -144,7 +145,7 @@ Sempre que aplicável, os projetos devem possuir:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nova-era-dev/.github/main/assets/rodape-novaera.png" alt="Marcas Nova Era" width="100%">
+<img src="../assets/rodape-novaera.png" alt="Marcas Nova Era" width="100%">
 
 </div>
 
